@@ -2,12 +2,12 @@
 #   Main Configs   #
 # ---------------- #
 baseurl:
-url: https://lrita.github.io
+url: https://yzcn.github.io
 date_format: "ordinal"
 title: 源代码
 subtitle: ""
-description: "lrita's blog"
-keywords: 源代码, golang, c, cpp, c++, rust
+description: "yzcn's blog"
+keywords: c, cpp, c++, linux
 timezone: Asia/Shanghai
 encoding: "utf-8"
 side_bar_repo_limit: 5
@@ -18,9 +18,9 @@ side_bar_repo_limit: 5
 author: Neal Hu
 organization: Weibo, Inc.
 organization_url: http://www.weibo.com
-github_username: lrita
-location: Beijing, China
-email: lrita@163.com
+github_username: yzcn
+location: Zhengzhou, China
+email: txunhuan@163.com
 
 # ---------------- #
 #    Navigation    #

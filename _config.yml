@@ -16,8 +16,8 @@ side_bar_repo_limit: 5
 #      Author      #
 # ---------------- #
 author: Neal Hu
-organization: Weibo, Inc.
-organization_url: http://www.weibo.com
+organization: 
+organization_url: 
 github_username: yzcn
 location: Zhengzhou, China
 email: txunhuan@163.com

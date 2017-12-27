@@ -2,16 +2,16 @@
 layout: page
 title: About
 description: 一个码农
-keywords: lrita, Neal
+keywords: 黑熊怪, 还是码农
 comments: true
 menu: 关于
 permalink: /about/
 ---
 
-## 信仰
+## 座右铭
 
-* 追根溯源
-* 不断求知
+* 学海无涯苦作舟
+* 三人行必有我师
 
 ## 联系
 

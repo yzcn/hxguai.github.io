@@ -6,6 +6,8 @@
 
 - name: System Engineer Keywords
   keywords:
+      - Linux
+      - C++
       - 分布式
-      - 存储、NoSQL
+      - NoSQL
       - 高并发

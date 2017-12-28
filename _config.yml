@@ -77,7 +77,7 @@ collections:
         output: true
         permalink: /wiki/:path/
 
-repository: yzcn/yzcn.github.io
+repository: yzcn.github.io
 
 # ---------------- #
 #      Comments    #

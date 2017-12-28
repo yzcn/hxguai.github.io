@@ -91,7 +91,7 @@ disqus:
     username: 
 # https://imsun.net/posts/gitment-introduction/
 gitment:
-    owner: pottery19@gmail.com
+    owner: yzcn
     repo: _comment
     oauth:
         client_id: 896ef08b1fd205e6eb83

@@ -2,7 +2,7 @@
 #   Main Configs   #
 # ---------------- #
 baseurl:
-url: yzcn.github.io
+url: https://yzcn.github.io
 date_format: "ordinal"
 title: 黑熊怪
 subtitle: ""
@@ -77,7 +77,7 @@ collections:
         output: true
         permalink: /wiki/:path/
 
-repository: yzcn/yzcn.github.io
+repository: yzcn.github.io
 
 # ---------------- #
 #      Comments    #

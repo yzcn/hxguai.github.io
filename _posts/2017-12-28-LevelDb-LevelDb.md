@@ -1,16 +1,5 @@
 ---
 layout: post
-title: c-ares dns 异步请求库简明教程
-date:   2017-05-01 12:00:00
-categories: [c, c++]
-description: c c++ clang clang++ c-ares
-keywords: clang/clang++, c-ares
----
-
-## 简介
-
----
-layout: post
 title:  leveldb 学习记录
 date:   2017-12-28 22:00:11
 category: "leveldb"
@@ -20,7 +9,7 @@ category: "leveldb"
 
 ## 概述
 
-&emsp;&emsp;LevelDb 是 google 开源的 key/value 存储系统，它的 committer 阵容相当强大，基本上是 bigtable 的原班人马，包括像 Jeff Dean 和 Sanjay Ghemawat 这样的大牛，它的代码合设计非常具有借鉴意义，是一种典型的 LSM Tree的 KV 引擎的实现，从它的数据结构来看，基本就是 sstable 的开源实现，而且针对各种平台作了 port，目前被用在 chrome 等项目中。
+LevelDb 是 google 开源的 key/value 存储系统，它的 committer 阵容相当强大，基本上是 bigtable 的原班人马，包括像 Jeff Dean 和 Sanjay Ghemawat 这样的大牛，它的代码合设计非常具有借鉴意义，是一种典型的 LSM Tree的 KV 引擎的实现，从它的数据结构来看，基本就是 sstable 的开源实现，而且针对各种平台作了 port，目前被用在 chrome 等项目中。
 
 &emsp;&emsp; LevelDb是能够处理十亿级别规模Key-Value型数据持久性存储的C++ 程序库，就是说他不提供像 mysql等数据库一样的 C/S 模式服务，它只是一个C++库，提供一些接口对文件进行读写。
 

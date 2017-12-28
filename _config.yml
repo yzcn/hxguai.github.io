@@ -92,14 +92,14 @@ disqus:
 # https://imsun.net/posts/gitment-introduction/
 gitment:
     owner: yzcn
-    repo: _comment
+    repo: yzcn.github.io
     oauth:
         client_id: 896ef08b1fd205e6eb83
         client_secret: 9bd241a2f1e00f47bb687f37ef39debde6ad47f5
 # https://github.com/gitalk/gitalk#install
 gitalk:
     owner: yzcn
-    repo: _comment
+    repo: yzcn.github.io
     clientID: 896ef08b1fd205e6eb83
     clientSecret: 9bd241a2f1e00f47bb687f37ef39debde6ad47f5
 # 在使用其它评论组件时可点击显示 Disqus

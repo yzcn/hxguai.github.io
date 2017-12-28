@@ -1,7 +1,7 @@
 ---
 layout: post
-title: c-ares dns 教程
-date:   2017-05-01 12:00:00
+title:  教程
+date:   2017-12-28 22:00:00
 categories: [c, c++]
 description: c c++ clang clang++ c-ares
 keywords: clang/clang++, c-ares

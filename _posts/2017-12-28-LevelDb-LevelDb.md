@@ -7,6 +7,7 @@ keywords: LSM, skipList, snapshot
 ---
 
 # LevelDb 学习实践
+
 ## 概述
 
 &emsp;&emsp;LevelDb 是 google 开源的 key/value 存储系统，它的committer阵容相当强大，基本上是 bigtable 的原班人马，包括像 Jeff Dean 和 Sanjay Ghemawat 这样的大牛，它的代码合设计非常具有借鉴意义，是一种典型的 LSM Tree的 KV 引擎的实现，从它的数据结构来看，基本就是 sstable 的开源实现，而且针对各种平台作了 port，目前被用在 chrome 等项目中。

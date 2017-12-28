@@ -2,7 +2,7 @@
 #   Main Configs   #
 # ---------------- #
 baseurl:
-url: https://yzcn.github.io
+url: yzcn.github.io
 date_format: "ordinal"
 title: 黑熊怪
 subtitle: ""

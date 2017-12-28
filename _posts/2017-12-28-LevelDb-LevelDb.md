@@ -3,7 +3,7 @@ layout: post
 title:  leveldb 学习记录
 date:   2017-12-28 14:53:49
 category: "leveldb"
-keywords: LSM, skipList, snapshot
+keywords: LSM skipList leveldb
 ---
 
 # LevelDb 学习实践

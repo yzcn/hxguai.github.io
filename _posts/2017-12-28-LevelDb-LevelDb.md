@@ -401,3 +401,4 @@ test.cpp
 ## 参考
 * https://www.cnblogs.com/haippy/archive/2011/12/04/2276064.html
 * http://blog.csdn.net/doc_sgl/article/details/52727475
+* http://blog.csdn.net/ryanfatcat/article/details/8239624

@@ -1,9 +1,10 @@
 ---
-layout: code-server
-title:  code-server编译安装
-date:   2021-4-21 18:01:30
+layout: post
+title: code-server编译安装 
+date:   2021-4-21 18:58:30
 category: "vscode"
 ---
+
 
 # code-server编译安装
 

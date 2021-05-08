@@ -1,3 +1,9 @@
+---
+layout: post
+title: code-server相关学习 
+date:   2021-4-8 8:58:30
+category: "vscode"
+---
 
 ## node.js express模块的介绍与简单使用
 https://blog.csdn.net/weixin_45060872/article/details/107801864
